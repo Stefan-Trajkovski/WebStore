@@ -1,15 +1,19 @@
-Ова е решението за задачата зададена од Pabau. 
-Апликацијата е изработена со React и TailwindCSS, и користи GraphQL (Apollo Client) за повлекување на податоци.
+This is the solution for the task assigned by Pabau.
+The application is built with Rect and TailwindCSS, and it uses GraphQL (Apollo Client) to fetch data.
+It is responsive on all devices, and uses almost all React Features(Custom Hook, UseEffect, UseState,Component Reuse)..
 
-Влезете во папката на проектот:
+After doing Clone to the Project locally: 
+
+Enter the project folder:
 cd WebStore
 
-Инсталирајте ги сите потребни пакети:
+Install all required packages:
 
 npm install
-
-Стартувајте ја апликацијата:
+Start the application:
 
 npm start
+If you need additional help or clarification, feel free to contact me.
 
-Доколку ви е потребна дополнителна помош или појаснување, слободно контактирајте ме.
+
+
