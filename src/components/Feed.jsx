@@ -10,7 +10,7 @@ export default function Feed() {
                         <div className=' text-center'><span className='text-orange-500 '> favorite guitars </span> with </div>
                         <div className='text-center '>VibeStrings.</div>
                     </div>
-                    <div className=' flex justify-center lg:justify-start space-x-6  pb-4 md:pb-0 '>
+                    <div className=' flex justify-center lg:justify-start space-x-6  pb-4 xl:pb-0 '>
                         <div>
                             <img src='/google.svg'></img>
                         </div>

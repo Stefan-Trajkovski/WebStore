@@ -38,7 +38,7 @@ export default function SecondHeaderLeft() {
 
           <div className='text-center md:text-left'>
             {name ? ("") :
-              (<> With a legacy dating back to the 1950s, Ibanez blends expert craftsmanship with cutting-edge innovation to deliver guitars that inspire creativity and elevate your performance. Trusted by top artists worldwide, Ibanez guitars are built to play fast, sound bold, and stand out on any stage.</>)}
+              (<>There is no Data in the GraphQl -With a legacy dating back to the 1950s, Ibanez blends expert craftsmanship with cutting-edge innovation to deliver guitars that inspire creativity and elevate your performance. Trusted by top artists worldwide, Ibanez guitars are built to play fast, sound bold, and stand out on any stage.</>)}
           </div>
 
         </div>
